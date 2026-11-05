@@ -11,7 +11,7 @@ Building things is how I learn (and it's fun too!).
 - Mainly into music, video editing and photo editing
 - Learning web development
 - Prefer vanilla PHP and Bootstrap over heavy frameworks
-- Use (mostly) Windows and macOS
+- Use (mostly) Windows and macOS, with Linux on the side (CachyOS as my workstation, Debian as my server)
  
 ## Tech stack
  
