@@ -36,7 +36,7 @@ Building things is how I learn (and it's fun too!).
  
 ![MAK's GitHub stats](https://github-stats-extended.vercel.app/api?username=MAK7103&show_icons=true&theme=github_dark)
  
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MAK7103&layout=compact&theme=github_dark&exclude_repo=MAK-s-dotfiles)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MAK7103&layout=compact&theme=github_dark&exclude_repo=MAK_dotfiles)
  
 ## Contact
  
